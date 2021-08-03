@@ -1,0 +1,1 @@
+Enviei o projeto da forma "padrão" apenas para cumprir o prazo do bootcamp que é dia 8 de agosto. Assim que terminar o curso irei trabalhar para modificar e personalizar esse projeto com minhas caracteríscticas.
